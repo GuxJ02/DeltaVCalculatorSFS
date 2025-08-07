@@ -70,6 +70,7 @@ This will give you the new Mass value of the ship in the second stage
 <div align="left">
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
 </div>
+Repeat this process until you have calculate all your ship stages and have the total Dv of your ship.
 ---
 ## 🛠️ Build
 
