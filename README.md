@@ -53,11 +53,15 @@ Then we will continue with the program to add the engines that are active in the
 <img width="394" height="218" alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
 </div>
 
-Finaly you will need to input the mass of the spaceship at the begining of the stage, this value is right here.
+Then you will need to input the mass of the spaceship at the begining of the stage, this value of the mass is in here.
 
 <div align="left">
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/cfe03979-870a-4d32-83b4-184148473f62" />
 </div>
+Finaly you imput the value to the program and hit enter
+
+<img width="394" height="218" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
+
 ---
 ## 🛠️ Build
 
