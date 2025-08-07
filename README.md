@@ -30,7 +30,7 @@ The first thing to do is check which propellants are used in that stage—but on
 the two on the sides—since their fuel will run out first. In this case, we have a total of 2 Large propellants.
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="150" height="388" alt="imagen1" />
+  <img src="https://github.com/user-attachments/assets/81ffa923-d26c-4ab1-bbdf-7f572083b1d2" width="150" height="388" alt="imagen1" />
 </div>
 
 Then, we run the program and indicate that in this stage we have a total of 2 Large propellants.
