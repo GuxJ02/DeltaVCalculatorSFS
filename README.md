@@ -36,6 +36,10 @@ Then we will execute the program an introduce that in this stage we have in tota
 <div align="left">
 <img width="787" height="436" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
 </div>
+Then we will specify how many thrusters of each type are active during this stage, in this case we have 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri)
+<div align="left">
+<img width="210" height="544" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
+</div>
 ---
 ## 🛠️ Build
 
