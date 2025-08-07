@@ -6,8 +6,8 @@
 
 ## ✨ Description
 
-**Rocket Δv Calculator** is a tiny **C** program that helps you to calculate the Δv of a rocket to be able to design and plan misions in the game. /n
-**IMPORTANT:** This is an old program made years ago. It can be greatly improved or rewritten in other languages, so feel free to submit a pull request if needed.
+- **Rocket Δv Calculator** es un programa en **C** para calcular la Δv de un cohete y planear misiones en el juego.
+- **IMPORTANT:** Este es un programa antiguo; se puede mejorar o portar a otros lenguajes. ¡Pull requests bienvenidos!
 
 ---
 
