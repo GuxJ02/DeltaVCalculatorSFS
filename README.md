@@ -59,11 +59,14 @@ Then you will need to input the mass of the spaceship at the begining of the sta
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/cfe03979-870a-4d32-83b4-184148473f62" />
 </div>
 
-Finaly you imput the value to the program and hit enter.
+Finally, enter the value into the program and press enter. You'll see the delta V for this first stage and the total sum of all the other stages you've calculated.
 
 <div align="left">
 <img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
 </div>
+Now yo simply need to hit number 1 and enter to calculate the next stage, and for this you will need to remove the first stage, and the ship will end like this.
+<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
+
 ---
 ## 🛠️ Build
 
