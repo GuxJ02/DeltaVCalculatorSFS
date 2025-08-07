@@ -58,10 +58,12 @@ Then you will need to input the mass of the spaceship at the begining of the sta
 <div align="left">
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/cfe03979-870a-4d32-83b4-184148473f62" />
 </div>
-Finaly you imput the value to the program and hit enter
 
-<img width="394" height="248" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
+Finaly you imput the value to the program and hit enter.
 
+<div align="left">
+<img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
+</div>
 ---
 ## 🛠️ Build
 
