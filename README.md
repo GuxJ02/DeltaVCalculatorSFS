@@ -1,6 +1,7 @@
 # 🚀 SFS Δv Calculator
 
 > Calculate the total Δv (delta-V) produced by a multistage launch vehicle—stage in the movile game app.
+> IMPORTANT: This is an old program made years ago. It can be greatly improved or rewritten in other languages, so feel free to submit a pull request if needed.
 
 ---
 
@@ -74,7 +75,7 @@ Repeat this process until you have calculated all your ship's stages and obtaine
 
 ---
 ## 🛠️ Build
-You can either compile the proyect on your own text editor or you can execute the exe in powershell
+You can either compile the project in your own text editor, or you can run the .exe in PowerShell like this.
 ```powerrshell
 & '.\Delta V.exe
 ```
