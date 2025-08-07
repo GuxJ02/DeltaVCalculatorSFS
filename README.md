@@ -24,7 +24,6 @@ To understand how to use it lets make an example. Lets say we want to analize th
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249" width="210" height="544" alt="imagen1" />
-  <img src="https://github.com/user-attachments/assets/otra-imagen.png" width="210" height="544" alt="imagen2" />
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 
