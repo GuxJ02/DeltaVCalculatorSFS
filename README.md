@@ -64,7 +64,8 @@ Finally, enter the value into the program and press enter. You'll see the delta 
 <div align="left">
 <img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
 </div>
-Now yo simply need to hit number 1 and enter to calculate the next stage, and for this you will need to remove the first stage, and the ship will end like this.
+Now, just press 1 and hit enter to calculate the next stage. To do this, you’ll need to detach the first stage, and the ship will end up looking like this.
+This will give you the new Mass value of the ship in the second stage
 
 <div align="left">
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
