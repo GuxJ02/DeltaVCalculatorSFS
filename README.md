@@ -20,57 +20,58 @@
 
 ---
 ## 📝 How to use it
-To understand how to use it lets make an example. Lets say we want to analize the Delta V of this spaceship:
+To understand how to use it, let's make an example. Let's say we want to analyze the Delta V of this spaceship:
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249" width="150" height="388" alt="imagen1" />
-  <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 
-The first thing to do is check which propellants are used in that stage, but only those that will be discarded during this phase—that is,
-the two on the sides—since their fuel will run out first. In this case we have in total 2 Large propellants.
+The first thing to do is check which propellants are used in that stage—but only those that will be discarded during this phase, that is,
+the two on the sides—since their fuel will run out first. In this case, we have a total of 2 Large propellants.
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="150" height="388" alt="imagen1" />
-  <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 
-Then we will execute the program an introduce that in this stage we have in total 2 Large propellants.
+Then, we run the program and indicate that in this stage we have a total of 2 Large propellants.
 
 <div align="left">
-<img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
+  <img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
 </div>
 
-Then we will specify how many thrusters of each type are active during this stage, in this case we have 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri).
+Next, we specify how many thrusters of each type are active during this stage. In this case, we have 2 Large (Hawk), 2 Medium (Valiant), and 1 Small (Kolibri).
 
 <div align="left">
-<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
+  <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
 </div>
 
-Then we will continue with the program to add the engines that are active in the stage ( 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri)).
+Then we continue in the program by adding the engines that are active in this stage (2 Large (Hawk), 2 Medium (Valiant), and 1 Small (Kolibri)).
 
 <div align="left">
-<img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
+  <img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
 </div>
 
-Then you will need to input the mass of the spaceship at the begining of the stage, this value of the mass is in here.
+After that, you’ll need to input the mass of the spaceship at the beginning of the stage. You can find this mass value here:
 
 <div align="left">
-<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/cfe03979-870a-4d32-83b4-184148473f62" />
+  <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/cfe03979-870a-4d32-83b4-184148473f62" />
 </div>
 
-Finally, enter the value into the program and press enter. You'll see the delta V for this first stage and the total sum of all the other stages you've calculated.
-
-<div align="left">
-<img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
-</div>
-Now, just press 1 and hit enter to calculate the next stage. To do this, you’ll need to detach the first stage, and the ship will end up looking like this.
-This will give you the new Mass value of the ship in the second stage
+Finally, enter the value into the program and press Enter. You'll see the Delta V for this first stage and the total sum of all the other stages you've calculated.
 
 <div align="left">
-<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
+  <img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
 </div>
-Repeat this process until you have calculate all your ship stages and have the total Dv of your ship.
+
+Now, just press 1 and hit Enter to calculate the next stage. To do this, you’ll need to detach the first stage, and the ship will end up looking like this.
+This will give you the new mass value of the ship for the second stage:
+
+<div align="left">
+  <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
+</div>
+
+Repeat this process until you have calculated all your ship's stages and obtained the total Delta V of your ship.
+
 ---
 ## 🛠️ Build
 
