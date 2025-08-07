@@ -40,6 +40,10 @@ Then we will specify how many thrusters of each type are active during this stag
 <div align="left">
 <img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
 </div>
+Then we will continue with the program to add the engines that are active in the stage ( 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri))
+<div align="left">
+<img width="394" height="218"alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
+</div>
 ---
 ## 🛠️ Build
 
