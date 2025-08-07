@@ -74,8 +74,8 @@ Repeat this process until you have calculated all your ship's stages and obtaine
 
 ---
 ## 🛠️ Build
-
-```bash
-gcc -Wall -O2 -o rocket_dv rocket_dv.c -lm
+You can either compile the proyect on your own text editor or you can execute the exe in powershell 
+```powerrshell
+& '.\Delta V.exe
 
 ---
