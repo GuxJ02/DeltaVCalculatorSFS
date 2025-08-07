@@ -12,7 +12,7 @@
 
 Reddit: [Reddit post](https://www.reddit.com/r/SpaceflightSimulator/comments/1mi7py1/i_built_this_2_years_ago_and_i_still_think_its/).
 
-Video of a spaceship design using this program: [Video](https://www.youtube.com/watch?v=kpIXlbYiQx0).
+Video of a spaceship design that used this program: [Video](https://www.youtube.com/watch?v=kpIXlbYiQx0).
 
 ---
 
