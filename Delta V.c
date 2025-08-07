@@ -73,8 +73,8 @@ int main(void)
         deltaVMission += deltaVStage;
 
         /* ---------- OUTPUT ----------------------------------------------- */
-        printf("\nStage Δv:           %.2f m/s\n", deltaVStage);
-        printf("Total Δv after %d stage(s): %.2f m/s\n", stageNumber, deltaVMission);
+        printf("\nStage Dv:           %.2f m/s\n", deltaVStage);
+        printf("Total Dv after %d stage(s): %.2f m/s\n", stageNumber, deltaVMission);
 
         /* ---------- CONTINUE OR FINISH ----------------------------------- */
         printf("\nAdd another stage?  (1 = Yes, 0 = No): ");
