@@ -23,8 +23,7 @@
 To understand how to use it lets make an example. Lets say we want to analize the Delta V of this spaceship:
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249"  width="300"
-  height="775" alt="imagen1" />
+  <img src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249" width="210" height="544" alt="imagen1" />
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 The first thing to do is check which propellants are used in that stage, but only those that will be discarded during this phase—that is,
