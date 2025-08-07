@@ -1,31 +1,40 @@
-# Rocket Δv Calculator
+# 🚀 Rocket Δv Calculator
 
-A tiny **C** program that lets you calculate the total Δv (delta-V) of a multistage launch vehicle.  
-For each stage you enter:
-
-1. The number of propellant containers of every size.
-2. The number of active thrusters of every size.
-3. The total spacecraft mass **at the start** of that stage.
-
-The program then:
-
-- Computes the average specific impulse (Isp) of the stage from your thruster mix.  
-- Calculates the stage’s Δv using the Tsiolkovsky rocket equation.  
-- Adds that Δv to a running mission total.  
-- Asks if you want to add another stage.
+> Calculate the total Δv (delta-V) produced by a multistage launch vehicle—stage by stage.
 
 ---
 
-## File list
+## ✨ Description
 
-| File              | Purpose                              |
-|-------------------|--------------------------------------|
-| `rocket_dv.c`     | Main source code                     |
-| `README.md`       | This file                            |
+**Rocket Δv Calculator** is a tiny **C** program that:
+
+1. 🛢️ Lets you enter the number of propellant containers of every size for the stage.  
+2. 🔧 Lets you enter the number of active thrusters of each size.  
+3. ⚖️ Asks for the total spacecraft mass **at the start** of that stage.  
+4. 🧮 Computes the stage’s average specific impulse (Isp) and its Δv via the Tsiolkovsky equation.  
+5. ➕ Adds that Δv to a running mission total, then offers to add another stage.  
 
 ---
 
-## Build
+## 🚀 Features
+
+- 🌐 Language-agnostic console prompts (English).  
+- 📊 Weighted-average Isp calculation from thrust and mass flow.  
+- 🔄 Unlimited number of stages—stop whenever you like.  
+- ⚡ Fast single-file program written in standard C (C99).  
+
+---
+
+## 📁 File list
+
+| File          | Purpose          |
+|---------------|------------------|
+| `rocket_dv.c` | Main source code |
+| `README.md`   | Project docs     |
+
+---
+
+## 🛠️ Build
 
 ```bash
 gcc -Wall -O2 -o rocket_dv rocket_dv.c -lm
