@@ -1,6 +1,6 @@
 # 🚀 SFS Δv Calculator
 
-> Calculate the total Δv (delta-V) produced by a multistage launch vehicle—stage in the movile game app.
+> Calculate the total Δv (delta-V) produced by a multistage launch vehicle—stage in Spaceflight Simulator.
 
 ---
 
