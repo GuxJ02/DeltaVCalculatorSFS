@@ -38,7 +38,7 @@ the two on the sides—since their fuel will run out first. In this case we have
 Then we will execute the program an introduce that in this stage we have in total 2 Large propellants.
 
 <div align="left">
-<img width="394" height="218" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
+<img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
 </div>
 
 Then we will specify how many thrusters of each type are active during this stage, in this case we have 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri).
@@ -50,7 +50,7 @@ Then we will specify how many thrusters of each type are active during this stag
 Then we will continue with the program to add the engines that are active in the stage ( 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri)).
 
 <div align="left">
-<img width="394" height="218" alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
+<img width="394" height="238" alt="imagen" src="https://github.com/user-attachments/assets/32c8104d-d1d3-4437-83be-0fa80e367124" />
 </div>
 
 Then you will need to input the mass of the spaceship at the begining of the stage, this value of the mass is in here.
@@ -60,7 +60,7 @@ Then you will need to input the mass of the spaceship at the begining of the sta
 </div>
 Finaly you imput the value to the program and hit enter
 
-<img width="394" height="218" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
+<img width="394" height="248" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
 
 ---
 ## 🛠️ Build
