@@ -26,8 +26,12 @@ To understand how to use it lets make an example. Lets say we want to analize th
   <img src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249" width="210" height="544" alt="imagen1" />
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
-
-
+Lo primero que habría que hacer es mirar que combustibles se utilizan en esa etapa, pero unicamente los que se van a soltar en esta etapa es decir los dos que tenemos en los laterales ya que su
+combustible se acabara lo primero
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="210" height="544" alt="imagen1" />
+  <!-- Añade aquí más <img> si hiciera falta -->
+</div>
 
 ---
 ## 🛠️ Build
