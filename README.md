@@ -27,12 +27,15 @@ To understand how to use it lets make an example. Lets say we want to analize th
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 The first thing to do is check which propellants are used in that stage, but only those that will be discarded during this phase—that is,
-the two on the sides—since their fuel will run out first.
+the two on the sides—since their fuel will run out first. In this case we have in total 2 Large propellants.
 <div align="left">
   <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="210" height="544" alt="imagen1" />
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
-
+Then we will execute the program an introduce that in this stage we have in total 2 Large propellants
+<div align="left">
+<img width="787" height="436" alt="imagen" src="https://github.com/user-attachments/assets/a806d5d5-9301-446e-9dde-68df704d108b" />
+</div>
 ---
 ## 🛠️ Build
 
