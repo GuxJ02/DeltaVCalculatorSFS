@@ -8,7 +8,9 @@
 
 **Rocket Δv Calculator** is a tiny **C** program that helps you calculate a rocket’s Δv so you can design and plan missions in the game.
 
-⚠️ **IMPORTANT:** This is an old program made years ago. It can be improved a lot or rewritten in other languages, so feel free to submit a pull request if needed.
+⚠️ **IMPORTANT:** This is an old program made years ago. It can be improved a lot or rewritten in other languages, so feel free to submit a pull request if needed and ask anything you want.
+
+[**REDDIT** Reddit post](https://www.reddit.com/r/SpaceflightSimulator/comments/1mi7py1/i_built_this_2_years_ago_and_i_still_think_its/)
 
 
 ---
