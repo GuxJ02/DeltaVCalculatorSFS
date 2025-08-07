@@ -21,12 +21,8 @@
 ---
 ## 📝 How to use it
 To understund how to use it lets make an example. Lets say we want to analize the Delta V of this spaceship:
-<img
-  src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249"
-  width="210"
-  height="544"
-  alt="imagen"
-/>
+<img width="210" height="544" alt="imagen" src="https://github.com/user-attachments/assets/4af00248-304c-414d-a385-700a8e635249" />
+
 
 
 
