@@ -29,7 +29,7 @@ To understand how to use it lets make an example. Lets say we want to analize th
 The first thing to do is check which propellants are used in that stage, but only those that will be discarded during this phase—that is,
 the two on the sides—since their fuel will run out first. In this case we have in total 2 Large propellants.
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="210" height="544" alt="imagen1" />
+  <img src="https://github.com/user-attachments/assets/23a5b6a4-1651-4a22-b539-510be71a9570" width="150" height="388" alt="imagen1" />
   <!-- Añade aquí más <img> si hiciera falta -->
 </div>
 Then we will execute the program an introduce that in this stage we have in total 2 Large propellants
@@ -38,7 +38,7 @@ Then we will execute the program an introduce that in this stage we have in tota
 </div>
 Then we will specify how many thrusters of each type are active during this stage, in this case we have 2 Large (Hawk) 2 Medium (Valiant) and 1 (Kolibri)
 <div align="left">
-<img width="210" height="544" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
+<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/1b6380c2-74c5-4789-943c-2d1483bd5858" />
 </div>
 ---
 ## 🛠️ Build
