@@ -65,8 +65,10 @@ Finally, enter the value into the program and press enter. You'll see the delta 
 <img width="394" height="258" alt="imagen" src="https://github.com/user-attachments/assets/ce3ec39b-22b0-4c33-8495-cee44bce63e9" />
 </div>
 Now yo simply need to hit number 1 and enter to calculate the next stage, and for this you will need to remove the first stage, and the ship will end like this.
-<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
 
+<div align="left">
+<img width="150" height="388" alt="imagen" src="https://github.com/user-attachments/assets/935f6ecf-c7f5-4258-bbd2-1af640a55daa" />
+</div>
 ---
 ## 🛠️ Build
 
